@@ -9,9 +9,9 @@ The dataset contains 400 records with 24 features (including blood pressure, alb
 
 **Matplotlib & Seaborn:** Static data visualization.
 
-**Plotly: **Interactive visualizations for deeper data exploration.
+**Plotly:** Interactive visualizations for deeper data exploration.
 # 📊 Key Features of the Analysis
-**1.Data Cleaning: **Handling null values and fixing data types for numerical and categorical columns.
+**1.Data Cleaning:** Handling null values and fixing data types for numerical and categorical columns.
 <img width="552" height="442" alt="download" src="https://github.com/user-attachments/assets/b06c185f-1862-45e4-be42-fb2c3bd201a4" />
 
 **2.Exploratory Data Analysis (EDA):**
