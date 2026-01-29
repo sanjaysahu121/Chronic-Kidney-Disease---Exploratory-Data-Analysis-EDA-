@@ -17,7 +17,12 @@ The dataset contains 400 records with 24 features (including blood pressure, alb
 **2.Exploratory Data Analysis (EDA):**
 - Distribution analysis of features like hemoglobin, albumin, and blood pressure.
 - Correlation heatmaps to find relationships between variables (e.g., Blood Urea vs. Serum Creatinine).
+- <img width="565" height="433" alt="download" src="https://github.com/user-attachments/assets/6cebc756-cc62-4141-bd2e-5c9bcb88243b" />
+<img width="547" height="360" alt="newplot (3)" src="https://github.com/user-attachments/assets/d6c26e5d-c795-4847-92c5-6d560fe066f5" />
+
 - Comparison of health metrics between CKD and Non-CKD patients.
+- <img width="1055" height="811" alt="download" src="https://github.com/user-attachments/assets/610e22b5-4240-4de6-aa2e-f167ac24ce44" />
+
 **3.Data Preprocessing:** Preparing features (x) and target labels (y) for potential machine learning modeling.
 # 📈 Insights
 - Visualizations reveal significant differences in hemoglobin levels and specific gravity between healthy and diseased groups.
@@ -25,10 +30,11 @@ The dataset contains 400 records with 24 features (including blood pressure, alb
 - The project highlights which clinical factors are most strongly correlated with kidney dysfunction.
 
 <img width="552" height="442" alt="download" src="https://github.com/user-attachments/assets/08cf2ea5-4333-47a2-93aa-d71bc4e726d6" />
-<img width="1054" height="986" alt="download" src="https://github.com/user-attachments/assets/ae2aeb51-564d-4678-812a-7b25800e909f" />
-<img width="1054" height="986" alt="download" src="https://github.com/user-attachments/assets/9b6b2cf8-3f4f-4de5-ac1d-82c0a88a4af1" />
+<img width="547" height="360" alt="newplot (1)" src="https://github.com/user-attachments/assets/811f7ab5-6eb0-47e2-9f48-c7aa8c1db937" />
 
-<img width="1054" height="986" alt="download" src="https://github.com/user-attachments/assets/55cf9c10-904d-4908-9412-083dca99fdc4" />
+
+
+
 
 
 
